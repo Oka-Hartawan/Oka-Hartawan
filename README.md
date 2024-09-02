@@ -35,10 +35,8 @@ Lifelong Learner, Currently studying at SMKN 2 Tabanan <br>
 <br>
 
 ### <p align="center"><strong>My Stats</strong></p><br>
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Oka-Hartawan&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oka-Hartawan&theme=radical&title_color=8E2DE2&text_color=fff)
-
 </div>
