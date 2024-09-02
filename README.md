@@ -17,7 +17,7 @@ Lifelong Learner, Currently studying at SMKN 2 Tabanan <br>
 ### <strong>Let's connect!</strong>
 
 - <a href="https://www.instagram.com/kaa.a_21/"><img src="https://img.shields.io/badge/instagram%20@kaa.a_21-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://oka-hartawan.github.io/Exercise-form"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20KAMI-Form-Login-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://oka-hartawan.github.io/Exercise-form/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20KAMI_form_Login-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 ### <strong>Skills</strong>
 
